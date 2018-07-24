@@ -1,0 +1,15 @@
+.title {
+    font-size: 30px;
+    color: #fff;
+    padding-top: 55px;
+    
+    }
+
+    @font-face {
+        font-family:'myFirstFont';
+        src: url(/assets/fonts/Moving-Pictures-Personal-Use.ttf)
+    }
+
+    p1 {
+        font-family:'myFirstFont'
+    }
